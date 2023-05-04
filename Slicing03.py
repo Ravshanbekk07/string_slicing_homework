@@ -5,8 +5,8 @@ def main(s):
     Returns:
         str: answer
     """
-    n =2
-    return s[0:n]
+    
+    return s[1:7]
 
 
 v =  main('positive')
