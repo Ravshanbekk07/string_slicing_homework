@@ -5,9 +5,9 @@ def main(s):
     Returns:
         str: answer
     """
+    n =2
+    return s[0:n]
 
-    return s[1:4]
 
-
-v =  main('hello')
+v =  main('positive')
 print(v)
