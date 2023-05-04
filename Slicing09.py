@@ -6,4 +6,12 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+   
+
+    return s[0::2]
+
+
+
+
+v =  main('codeschooluz')
+print(v)
