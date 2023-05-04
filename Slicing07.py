@@ -7,4 +7,10 @@ def main(s,n):
     Returns:
         str: answer
     """
-    return
+    return s[:-n]
+
+
+
+
+v =  main('codeschooluz',1)
+print(v)
