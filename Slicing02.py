@@ -6,4 +6,8 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    return  s[8:]
+
+
+v = main('codeschooluz')
+print(v)
